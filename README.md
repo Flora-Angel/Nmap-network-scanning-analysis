@@ -14,11 +14,6 @@ The goal was to identify open ports, running services, and operating system deta
 
 ### 1. Basic Scan
 
-## Windows Event Log Analysis
-
-The screenshot below shows multiple failed login attempts (Event ID 4625) detected in Windows Security logs.
-
-![Failed Login Detection](failed-login-detection.png)
 Command used:
 nmap scanme.nmap.org
 
@@ -38,4 +33,10 @@ Perform service detection, OS detection, and traceroute.
 - OS likely Linux
 
 ## Learning Outcome
+
+## Windows Event Log Analysis
+
+The screenshot below shows multiple failed login attempts (Event ID 4625) detected in Windows Security logs.
+
+![Failed Login Detection](failed-login-detection.png)
 This project helped me understand how cybersecurity professionals perform network reconnaissance and identify exposed services in a network.

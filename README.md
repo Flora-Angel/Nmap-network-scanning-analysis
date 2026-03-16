@@ -33,10 +33,3 @@ Perform service detection, OS detection, and traceroute.
 - OS likely Linux
 
 ## Learning Outcome
-
-## Windows Event Log Analysis - Detecting Failed Login Attempts
-
-The screenshot below shows multiple failed login attempts (Event ID 4625) detected in Windows Security logs.
-
-![Failed Login Detection](failed-login-detection.png)
-This project helped me understand how cybersecurity professionals perform network reconnaissance and identify exposed services in a network.

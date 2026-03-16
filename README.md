@@ -13,6 +13,12 @@ The goal was to identify open ports, running services, and operating system deta
 ## Scans Performed
 
 ### 1. Basic Scan
+
+## Windows Event Log Analysis
+
+The screenshot below shows multiple failed login attempts (Event ID 4625) detected in Windows Security logs.
+
+![Failed Login Detection](failed-login-detection.png)
 Command used:
 nmap scanme.nmap.org
 

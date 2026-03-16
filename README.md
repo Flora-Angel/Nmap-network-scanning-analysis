@@ -31,5 +31,3 @@ Perform service detection, OS detection, and traceroute.
 - Open ports detected: 22 (SSH), 53 (DNS), 80 (HTTP)
 - Web server detected: Apache
 - OS likely Linux
-
-## Learning Outcome
